@@ -1,0 +1,1 @@
+This bug occurs when using the FlatList component in React Native with a large dataset.  The issue is that when scrolling quickly, the component renders incorrectly, leading to visual glitches, blank spaces, or elements disappearing. This is often worsened by complex list items or frequent data updates.
